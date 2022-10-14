@@ -27,14 +27,15 @@ html {
 
 .navbar .logo {
   float: left;
-  height: 200px;
-  width: 200px;
-  padding-left: 40px;
+  height: 120px;
+  width: 120px;
+  padding-left: 20px;
+  align-items:;
 }
 
 .navbar h2 {
   color: white;
-  padding-top: 80px;
+  padding-top: 35px;
 }
 
 .navbar .container ul {
@@ -69,9 +70,9 @@ html {
 
 /* Hero Section */
 #hero {
-  background-image: url(./Images/Gye\ Gyame\ banner1.png);
+  background-image: url(./Images/Gye-Gyame-banner1.png);
   background-position: no-repeat center center/cover;
-  height: 500px;
+  height: 520px;
 }
 .zoom {
   padding: 100px;
